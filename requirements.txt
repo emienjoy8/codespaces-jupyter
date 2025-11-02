@@ -1,5 +1,2 @@
-geopandas==1.1.1
 leafmap==0.55.1
-segment-geospatial==1.0.1
-gdal==3.10.3
-sam2==1.0.0 
+segment-geospatial==0.13.0
