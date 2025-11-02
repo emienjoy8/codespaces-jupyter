@@ -5,7 +5,7 @@
   },
   "waitFor": "onCreateCommand",
   "updateContentCommand": "python3 -m pip install -r requirements.txt",
-  "postCreateCommand": "",
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y libgdal-dev && pip install gdal numpy",
   "customizations": {
     "codespaces": {
       "openFiles": []
