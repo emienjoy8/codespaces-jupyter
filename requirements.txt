@@ -1,6 +1,5 @@
-ipywidgets==8.1.2
-matplotlib==3.8.4
-pandas==2.2.2
-torch==2.8.0
-torchvision==0.23.0
-tqdm==4.66.4
+geopandas==1.1.1
+leafmap==0.55.1
+segment-geospatial==1.0.1
+gdal==3.10.3
+sam2==1.0.0 
