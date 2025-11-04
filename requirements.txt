@@ -1,2 +1,2 @@
-leafmap==0.55.1
-segment-geospatial==0.13.0
+leafmap
+segment-geospatial
